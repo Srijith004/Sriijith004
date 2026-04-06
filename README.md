@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srijith002" alt="srijith002" /></a> </p>
 
+- 🔭 I’m currently working on [Fit AI](https://github.com/Srijith004/Fit-AI)
+
 - 📫 How to reach me **srijithswaminathan22@gmail.com**
 
 - ⚡ Fun fact **Code is coming… say my logic**
