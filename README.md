@@ -1,85 +1,119 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/source/699dd6245968003.69b95a92abdef.gif)](https://github.com/srijith002)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Srijith</h1>
-<h3 align="center">Electrical & Electronics Engineering Student | AI · Embedded Systems · VLSI · Semiconductor Enthusiast</h3>
+![Banner](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)
 
-<br/>
+# Hi, I'm **SRIJITH S**
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/userupload/21186539/file/original-c1536248cc514367059cf3ed5e79a8b7.gif"/>
+### IT Engineer · AI & Full-Stack Developer · Embedded Systems Enthusiast
 
-### 🚀 About Me
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Web+Apps;Exploring+Embedded+%26+IoT+Systems;Passionate+about+Semiconductors+%26+NVIDIA;Zonal+Handball+Player+%F0%9F%A4%BE)
 
-- 🔭 Currently building **[FitAI — AI Fitness Planner](https://github.com/Srijith004/Fit-AI)**
-- 🌱 Learning **Japanese · Targeting JLPT N5**
-- 💡 Interested in **AI, Embedded Systems, VLSI & Semiconductors**
-- 🏆 Zonal-level **Handball** player
-- 📫 Reach me at **srijithswaminathan22@gmail.com**
-- ⚡ Fun fact: **Code is coming… say my logic**
+[![India](https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge)](https://github.com/Srijith004)
+[![Email](https://img.shields.io/badge/📧_youremail@gmail.com-1e1e2e?style=for-the-badge)](mailto:youremail@gmail.com)
+[![Open to Work](https://img.shields.io/badge/🚀_Open_to_Internships-1e1e2e?style=for-the-badge)](https://github.com/Srijith004)
 
-<br clear="right"/>
+</div>
 
 ---
 
-### 🛠️ Languages & Tools
+### 🌐 Socials
 
-<p align="left">
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.arduino.cc/"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/></a>
-  <a href="https://www.mathworks.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/></a>
-  <a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.blender.org/"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/></a>
-  <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/></a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Srijith004)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Srijith004)
+
+---
+
+### 👨‍💻 About Me
+
+IT engineering student from Coimbatore building things at the crossroads of **AI**, **full-stack web**, and **embedded hardware**.
+I care about building systems that are useful, not just impressive — from an AI fitness planner to a real-time load forecasting hardware-software system.
+
+- 🔭 Currently building **FitAI** — AI-powered progressive web app (React + Gemini API)
+- ⚡ Working on **AI Load Forecasting & Auto Load Sharing System** (hardware + ML hybrid)
+- 🎯 Aspiring to work in the **semiconductor industry** — NVIDIA or TCS
+- 🀄 Learning **Japanese** · Preparing for **JLPT N5**
+- 🏆 **Zonal-level Handball** player
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
+**Frontend & Backend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+**AI & Data**
+
+![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Embedded & Hardware**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-EE3124?style=flat-square&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🏋️ **FitAI — AI Fitness Planner** | AI-powered PWA with food analysis, workout generation, calorie tracking & social streaks | React, Vite, Node.js, Gemini API |
+| ⚡ **AI Load Forecasting System** | Hybrid hardware-AI system for intelligent power distribution and load balancing | Python, Arduino, IoT Sensors |
+| 🚦 **Smart Traffic Control + Spike System** | Automated traffic + embedded spike deployment with AI | Arduino, Computer Vision |
+| 🌊 **Landslide Alert System** | Multi-sensor early warning system with GPS/GSM alerts | Arduino, GPS, GSM |
+| 🧠 **Deepfake Detection Tool** | ML-based detection of AI-generated media with feedback loop | Python, ML |
+| 👓 **ISE — Interactive Skills Enhancer** | VR app for teaching social skills to children with ASD | VR, Unity |
+
+---
+
+### 🏭 Internship Experience
+
+**⚙️ Invention Controls** — Industrial Automation
+> Hands-on with VFDs, motor control systems, and industrial automation workflows
+
+**🔌 Hindustan Transformer Company** — Electrical Manufacturing
+> Transformer winding, coil insertion, testing, and quality validation
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=srijith002&show_icons=true&locale=en&hide_border=true&theme=default" alt="srijith002" />
-</p>
+<div align="center">
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srijith002&hide_border=true" alt="srijith002" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Srijith004&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srijith002&show_icons=true&locale=en&layout=compact&hide_border=true" alt="srijith002" />
-</p>
+![Srijith004's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srijith004&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srijith004&layout=compact&theme=dark&hide_border=true)
+
+</div>
 
 ---
 
-### 🌐 Connect with Me
+<div align="center">
 
-<p align="left">
-  <a href="https://linkedin.com/in/srijith-s" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/_srijith_22" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/srijith" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/c/srijith" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://discord.gg/246685" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="https://fb.com/srijith" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-</p>
+*"Build things that matter."*
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=Srijith004&style=flat-square&color=blue)
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=srijith002&label=Profile%20views&color=0e75b6&style=flat" alt="srijith002" />
-</p>
+</div>
