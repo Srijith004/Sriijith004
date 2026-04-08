@@ -1,8 +1,8 @@
 <div align="center">
 
-![Banner](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="100"/>
 
-# Hi, I'm **SRIJITH S**
+# Hi there, I'm **SRIJITH S** 👋
 
 ### IT Engineer · AI & Full-Stack Developer · Embedded Systems Enthusiast
 
@@ -27,9 +27,10 @@
 ### 👨‍💻 About Me
 
 IT engineering student from Coimbatore building things at the crossroads of **AI**, **full-stack web**, and **embedded hardware**.
-I care about building systems that are useful, not just impressive — from an AI fitness planner to a real-time load forecasting hardware-software system.
+I care about building systems that are useful, not just impressive — from an AI fitness planner to an intelligent news platform.
 
-- 🔭 Currently building **FitAI** — AI-powered progressive web app (React + Gemini API)
+- 🔭 Currently building **FitAI** — AI-powered fitness PWA (React + Gemini API)
+- 📰 Built **SmartNews AI** — AI news summarization & sentiment analysis platform
 - ⚡ Working on **AI Load Forecasting & Auto Load Sharing System** (hardware + ML hybrid)
 - 🎯 Aspiring to work in the **semiconductor industry** — NVIDIA or TCS
 - 🀄 Learning **Japanese** · Preparing for **JLPT N5**
@@ -51,6 +52,7 @@ I care about building systems that are useful, not just impressive — from an A
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **AI & Data**
 
@@ -69,7 +71,7 @@ I care about building systems that are useful, not just impressive — from an A
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
@@ -77,12 +79,12 @@ I care about building systems that are useful, not just impressive — from an A
 
 | Project | Description | Stack |
 |---|---|---|
-| 🏋️ **FitAI — AI Fitness Planner** | AI-powered PWA with food analysis, workout generation, calorie tracking & social streaks | React, Vite, Node.js, Gemini API |
-| ⚡ **AI Load Forecasting System** | Hybrid hardware-AI system for intelligent power distribution and load balancing | Python, Arduino, IoT Sensors |
+| 🏋️ **[FitAI — AI Fitness Planner](https://github.com/Srijith004/Fit-AI)** | Full-stack PWA with AI food scanning via Gemini Vision, workout generation, calorie tracking, streak gamification & social leaderboard | React, Vite, Node.js, Express, Gemini API, JWT |
+| 📰 **[SmartNews AI](https://github.com/Srijith004/SmartNews-AI)** | Intelligent news platform with 3-level AI summaries, sentiment analysis, fact-check indicators & keyword extraction powered by Gemini 1.5 Flash | React, Node.js, MongoDB, Gemini AI, NewsAPI |
+| ⚡ **AI Load Forecasting System** | Hybrid hardware-AI system for intelligent power distribution and auto load balancing | Python, Arduino, IoT Sensors |
 | 🚦 **Smart Traffic Control + Spike System** | Automated traffic + embedded spike deployment with AI | Arduino, Computer Vision |
 | 🌊 **Landslide Alert System** | Multi-sensor early warning system with GPS/GSM alerts | Arduino, GPS, GSM |
-| 🧠 **Deepfake Detection Tool** | ML-based detection of AI-generated media with feedback loop | Python, ML |
-| 👓 **ISE — Interactive Skills Enhancer** | VR app for teaching social skills to children with ASD | VR, Unity |
+| 🧠 **Deepfake Detection Tool** | ML-based detection of AI-generated media with user feedback loop | Python, ML |
 
 ---
 
