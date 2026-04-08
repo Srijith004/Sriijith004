@@ -1,12 +1,12 @@
 <div align="center">
 
-![Banner](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)
+<img src="banner.gif" width="600" height="200"/>
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="120"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/animated/25.gif" width="100"/>
 
 # Hi there, I'm **SRIJITH S** 👋
 
-### IT Engineer · AI & Full-Stack Developer · Embedded Systems Enthusiast
+### EEE Engineer · AI & Full-Stack Developer · Embedded Systems Enthusiast
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Web+Apps;Exploring+Embedded+%26+IoT+Systems;Passionate+about+Semiconductors+%26+NVIDIA;Zonal+Handball+Player+%F0%9F%A4%BE)
 
@@ -28,7 +28,7 @@
 
 ### 👨‍💻 About Me
 
-IT engineering student from Coimbatore building things at the crossroads of **AI**, **full-stack web**, and **embedded hardware**.
+EEE engineering student from Coimbatore building things at the crossroads of **AI**, **full-stack web**, and **embedded hardware**.
 I care about building systems that are useful, not just impressive — from an AI fitness planner to an intelligent news platform.
 
 - 🔭 Currently building **FitAI** — AI-powered fitness PWA (React + Gemini API)
