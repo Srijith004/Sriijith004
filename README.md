@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="banner.gif" width="600" height="200"/>
+<img src="banner.gif" width="700"/>
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/animated/25.gif" width="100"/>
+<img src="attraction.gif" width="150"/>
 
 # Hi there, I'm **SRIJITH S** 👋
 
 ### EEE Engineer · AI & Full-Stack Developer · Embedded Systems Enthusiast
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Web+Apps;Exploring+Embedded+%26+IoT+Systems;Passionate+about+Semiconductors+%26+NVIDIA;Zonal+Handball+Player+%F0%9F%A4%BE)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Web+Apps;Exploring+Embedded+%26+IoT+Systems;Passionate+about+Semiconductors+%26+NVIDIA;Power+Electronics+%26+Motor+Control)
 
 [![India](https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge)](https://github.com/Srijith004)
 [![Email](https://img.shields.io/badge/📧_youremail@gmail.com-1e1e2e?style=for-the-badge)](mailto:youremail@gmail.com)
@@ -35,8 +35,6 @@ I care about building systems that are useful, not just impressive — from an A
 - 📰 Built **SmartNews AI** — AI news summarization & sentiment analysis platform
 - ⚡ Working on **AI Load Forecasting & Auto Load Sharing System** (hardware + ML hybrid)
 - 🎯 Aspiring to work in the **semiconductor industry** — NVIDIA or TCS
-- 🀄 Learning **Japanese** · Preparing for **JLPT N5**
-- 🏆 **Zonal-level Handball** player
 
 ---
 
